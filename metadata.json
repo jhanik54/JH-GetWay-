@@ -1,0 +1,6 @@
+{
+  "name": "JH GetWay",
+  "description": "Unified AI Gateway Management Platform by JH Soft Corporation for Cloud & Local AI Providers, Smart Routing, Coding Agents, MCP Servers, Workflows, Playground, Analytics, and API Key Vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
